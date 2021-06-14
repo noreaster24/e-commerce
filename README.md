@@ -2,12 +2,8 @@
 
 ## How to Use
 * In the Terminal, run 'npm install'
-* Once all dependencies have downloaded, run 'npm start' or 'node app.js'
+* Once all dependencies have downloaded, run 'npm start'
 * Open Insomnia and run the commands described in the Acceptance Criteria
-
-### Notes
-* There are bugs in the program that are being resolved
-* Once these bugs have been fixed, the program will be resubmitted for review
 
 # Demo Video
 [Demo of e-commerce program](https://drive.google.com/file/d/1qqgYjUZ5shJ-0kPK1toSg0plFZbB9S_P/view)

@@ -1,5 +1,17 @@
 # E-commerce Back End Starter Code
 
+## How to Use
+* In the Terminal, run 'npm install'
+* Once all dependencies have downloaded, run 'npm start' or 'node app.js'
+* Open Insomnia and run the commands described in the Acceptance Criteria
+
+### Notes
+* There are bugs in the program that are being resolved
+* Once these bugs have been fixed, the program will be resubmitted for review
+
+# Demo Video
+[Demo of e-commerce program]( )
+
 ## User Story
 * AS A manager at an internet retail company
 * I WANT a back end for my e-commerce website that uses the latest technologies
